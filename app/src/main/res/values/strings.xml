@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="txtname">Name</string>
+    <string name="txtButton">Bitte Klicken</string>
+    <string name="txtField">Text</string>
+    <string name="txtRechnung">Rechnung eingeben</string>
+</resources>
